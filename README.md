@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toyamagaio
-- 👀 I’m interested in data science, especially partile physics.
-- 🌱 I’m currently learning hadron physics.
+- 👀 I’m interested in data science, especially particle physics.
+- 🌱 I’m currently learning muon science and hadron physics.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
